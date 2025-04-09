@@ -1,6 +1,3 @@
-Sure! Here's a **`README.md`** template for your project, designed to provide a clear overview of the project, how to set it up, and how to contribute. This template will serve as the entry point for anyone visiting your project, guiding them through the project details, setup instructions, and usage.
-
-```markdown
 # Vehicle Detection and Classification System
 
 ## Project Overview
