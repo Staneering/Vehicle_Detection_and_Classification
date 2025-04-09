@@ -1,4 +1,3 @@
-
 # Vehicle Detection and Classification System
 
 ## Project Overview
